@@ -2,7 +2,7 @@
 
 Proofo is Social Proof app for Magento 2 which helps merchants increase conversion rate 30%, trust, credibility, and sales with real-time social proof.
 
-## How to install
+## How to install a
 
 ### 1. Install via composer (recommend)
 We recommend you to install Avada_Proofo module via composer. It is easy to install, update and maintaince.
